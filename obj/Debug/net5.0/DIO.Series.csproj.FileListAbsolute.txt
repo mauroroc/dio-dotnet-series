@@ -1,0 +1,16 @@
+/home/mauror/dio/DIO.Series/bin/Debug/net5.0/DIO.Series
+/home/mauror/dio/DIO.Series/bin/Debug/net5.0/DIO.Series.deps.json
+/home/mauror/dio/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.json
+/home/mauror/dio/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.dev.json
+/home/mauror/dio/DIO.Series/bin/Debug/net5.0/DIO.Series.dll
+/home/mauror/dio/DIO.Series/bin/Debug/net5.0/ref/DIO.Series.dll
+/home/mauror/dio/DIO.Series/bin/Debug/net5.0/DIO.Series.pdb
+/home/mauror/dio/DIO.Series/obj/Debug/net5.0/DIO.Series.csprojAssemblyReference.cache
+/home/mauror/dio/DIO.Series/obj/Debug/net5.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/mauror/dio/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfoInputs.cache
+/home/mauror/dio/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfo.cs
+/home/mauror/dio/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.CoreCompileInputs.cache
+/home/mauror/dio/DIO.Series/obj/Debug/net5.0/DIO.Series.dll
+/home/mauror/dio/DIO.Series/obj/Debug/net5.0/ref/DIO.Series.dll
+/home/mauror/dio/DIO.Series/obj/Debug/net5.0/DIO.Series.pdb
+/home/mauror/dio/DIO.Series/obj/Debug/net5.0/DIO.Series.genruntimeconfig.cache
